@@ -384,15 +384,6 @@
 //             }
 
 
-// chapter 9-11 task 7
-
-// var a = prompt("Enter a number from One to Ten")
-// if(a ==  1){
-//             document.write("BINGO!")
-//             }
-// if(a >  1 && a <11){
-//                 document.write("You are close to correct answer")
-//                 }          
 
 
 // chapter 9-11 task 8
@@ -420,25 +411,6 @@
 // document.write("The number " + a + " is Odd Number.")}
 
 
-// chapter 9-11 task 10
-
-// var temp = prompt("Enter Temperature") 
-// if(temp >  39){
-// document.write("Its to hot outside.")
-// }
-
-
-// if(temp >  29 && temp < 40 ){
-//     document.write("The weather today is Normal")
-//     }
-    
-// if(temp >  19 && temp < 30 ){
-//         document.write("Today weather is cool")
-//         }
-       
-// if(temp >  9 && temp < 20 ){
-//             document.write("OMG! Today’s weather is so Cool.")
-//             }
 
 // chapter 9-11 task 11
 
@@ -503,18 +475,6 @@
 //     alert ("number is Zero")
 // }
 
-// chapter 12-13 task 5
-
-// var pass = "abcd"
-
-// var a=prompt("Enter a password")
-
-// if( a === pass){
-//     alert ("you have entered correct password")
-// }
-// else{
-//     alert("please enter correct password")
-// }
 
 // chapter 14-16 task 1
 // var name []
